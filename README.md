@@ -15,5 +15,5 @@ http://exacttarget.github.com/fuelux/
 
 __TODO__
 
-* Re-right javascript so that data steps don’t have to be hidden/unhidden manually
+* Rewrite javascript so that data steps don’t have to be hidden/unhidden manually
 * Add clientside validations - possible solution: https://github.com/bcardarella/client_side_validations
